@@ -138,7 +138,7 @@ In CentOS this is aliased to actually run ls with `--color=auto` every time, whi
     alias l.='ls -d .* --color=auto'
     alias ll='ls -l --color=auto'
     alias ls='ls --color=auto'
-![Alt text](http://www.rootusers.com/wp-content/uploads/2016/11/linux-ls-color.png)
+![Alt text](https://github.com/private-ryan23/linux-command/blob/master/img/linux-ls-color.png)
 We can disable the colouring with `--color=never`
 
 #### `ls -gG` - Hide User Or Group
